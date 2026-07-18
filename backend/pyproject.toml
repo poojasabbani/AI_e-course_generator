@@ -1,0 +1,25 @@
+[project]
+name = "coursefy-api"
+version = "0.1.0"
+description = "PDF → AI Course platform backend"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.32",
+  "pydantic>=2.9",
+  "pydantic-settings>=2.6",
+  "sqlalchemy>=2.0",
+  "psycopg[binary]>=3.2",
+  "alembic>=1.14",
+  "pgvector>=0.3",
+  "python-jose[cryptography]>=3.3",
+  "python-multipart>=0.0.20",
+  "pymupdf>=1.24",
+  "langchain>=0.3",
+  "langchain-community>=0.3",
+  "sentence-transformers>=3.2",
+  "groq>=0.13",
+  "supabase>=2.10",
+  "httpx>=0.27",
+  "tenacity>=9.0",
+]
