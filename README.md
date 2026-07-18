@@ -2,7 +2,7 @@
 
 Transform any PDF into an interactive AI-powered learning experience.
 
-DocuCourse AI is a full-stack web application that allows users to upload PDF documents and automatically convert them into structured learning courses using AI. The platform is designed to make technical documentation, textbooks, research papers, and notes easier to learn through organized lessons, AI-assisted explanations, quizzes, and conversational learning.
+ Coursefy is a full-stack web application that allows users to upload PDF documents and automatically convert them into structured learning courses using AI. The platform is designed to make technical documentation, textbooks, research papers, and notes easier to learn through organized lessons, AI-assisted explanations, quizzes, and conversational learning.
 
 ---
 
